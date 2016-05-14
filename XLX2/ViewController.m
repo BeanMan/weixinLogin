@@ -11,8 +11,8 @@
 
 
 
-#define APPID @"wxac6cc1564c1b0d8e"
-#define APPSEC @"ed1118008bce937b40ee81c3dd874dc1"
+#define APPID @"wxb4ba3c02aa476ea1"
+#define WXAPPSEC @"你的密钥"
 #define Description @"*****"
 
 #define AccrssToken @"AccrssToken"

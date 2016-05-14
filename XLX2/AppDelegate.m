@@ -10,8 +10,8 @@
 #import "WXApi.h"
 #import "RootViewController.h"
 
-#define WXAPPID @"wxac6cc1564c1b0d8e"
-#define WXAPPSEC @"ed1118008bce937b40ee81c3dd874dc1"
+#define WXAPPID @"wxb4ba3c02aa476ea1"
+#define WXAPPSEC @"你的密钥"
 #define Description @"*****"
 
 
